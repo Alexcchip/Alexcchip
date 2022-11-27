@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Alexcchip
 - 👀 I’m interested in CS/Classical Music/Math
-- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me aw700m@bhsec.bard.edu
 
 <!---
